@@ -1,39 +1,39 @@
-# CSE0001 - Digital Literacy Project
+# 🚀 CSE0001 - Digital Literacy: The Ambassador Portfolio
 
-**Student Digital Ambassador Portfolio**
+**Welcome to my digital headquarters.**
 
-* **Name:** [Your Name]
-* **Registration Number:** [Your Reg. Number]
-* **Branch:** B.Tech [Your Branch, e.g., Computer Science]
-* **Year:** First Year
+* **👤 Name:** Divyank Khandelwal
+* **🆔 Registration Number:** 25BCE11112
+* **💻 Branch:** B.Tech, Computer Science Engineering
+* **🎓 Year:** 1st Year, VIT Bhopal
 
-## Project Overview
-This repository contains my digital portfolio and deliverables for the CSE0001 Digital Literacy course at VIT Bhopal University. Acting as a Student Digital Ambassador, I have completed five distinct modules aimed at navigating the digital world safely, professionally, and responsibly.
-
----
-
-## Module Summaries
-
-### Task 1: Digital Literacy Awareness Infographic
-Created a visual infographic designed to teach peers about the core concepts of digital literacy, useful digital tools for academic collaboration, and fundamental safe internet practices. 
-* **Deliverable:** `task-1-presentation/` (Contains the exported infographic design).
-
-### Task 2: Build Your Student Digital Portfolio
-Established a foundational professional online presence by setting up structured profiles across key academic and industry platforms.
-* **Deliverable:** `task-2-portfolio/` (Contains profile screenshots of GitHub, LinkedIn, and [Insert 3rd Platform Name]).
-
-### Task 3: Explore Coding & Collaboration Platforms
-Explored practical tools for coding practice and collaborative data collection. 
-* **Google Form Link:** [Insert your shareable Google Form link here]
-* **Deliverable:** `task-3-platforms/` (Contains screenshots of coding challenges and Google Workspace collaboration).
-
-### Task 4: Draft a Professional Email & Etiquette Guide
-Drafted professional communications for academic and internship scenarios, alongside a comprehensive "Do's and Don'ts" guide for responsible social media use.
-* **Deliverable:** `task-4-email-etiquette/` (Contains email drafts and the social media checklist).
-
-### Task 5: Cybercrime Awareness Case Study & Prevention
-Researched a realistic cybercrime scenario focusing on phishing and developed an actionable prevention checklist tailored for Indian college students.
-* **Deliverable:** `task-5-cybercrime/` (Contains the phishing case study and the 8-point prevention checklist).
+## 🌟 Project Overview
+Consider this repository my official survival guide to the digital jungle. As a Student Digital Ambassador, I’ve spent this project proving that I can navigate the web safely, communicate like a professional, and start my tech journey without falling for a UPI scam. 
 
 ---
-*Submitted for CSE0001 Internal Project Assessment.*
+
+## 📂 The Modules (What's Inside)
+
+### 🎨 Task 1: The "Make It Look Good" Infographic
+Because nobody reads walls of text. I designed a sleek visual guide to break down exactly what digital literacy is, the best collaboration tools, and how to lock down your internet privacy. 
+* **Find the design here:** `task-1-presentation/` 
+
+### 💼 Task 2: The "Hire Me Please" Digital Portfolio
+Setting up the foundation for the next four years. I’ve officially claimed my corner of the professional internet across GitHub, LinkedIn, and Kaggle. 
+* **Find the setup here:** `task-2-portfolio/` 
+
+### 👨‍💻 Task 3: Coding & Collaboration (Where the Magic Happens)
+Explored the platforms where actual development and data collection get done. Plus, I built a custom quiz to test my batchmates' digital street smarts.
+* **Take the Quiz:** https://docs.google.com/forms/d/e/1FAIpQLScs_2dCzvE4a3iNer57GaB97js8ahhxxEthIMj8WafxuHlkfw/viewform?usp=dialog
+* **Find the challenge proof here:** `task-3-platforms/`
+
+### 📧 Task 4: The Art of the Professional Email
+Mastering the delicate art of asking a professor for an extension without sounding desperate, pitching for an internship, and a strict "Do's and Don'ts" survival guide for college social media.
+* **Find the drafts here:** `task-4-email-etiquette/` 
+
+### 🕵️‍♂️ Task 5: Catch Me If You Can (Cybercrime Prevention)
+A deep dive into the dark side of the web. I researched a highly realistic phishing scam targeting college students and built a bulletproof 8-point checklist to keep our data and bank accounts safe.
+* **Find the case study here:** `task-5-cybercrime/`
+
+---
+*Built with caffeine and sheer willpower for the CSE0001 Internal Project Assessment.* ✌️
