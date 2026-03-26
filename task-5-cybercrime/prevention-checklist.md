@@ -16,9 +16,9 @@
 
 # UPI & Financial Safety:
 
-8. UPI PIN Rule: Remember that you never need to scan a QR code or enter your UPI PIN to receive money. You only enter your PIN to send money or check your balance.
+7. UPI PIN Rule: Remember that you never need to scan a QR code or enter your UPI PIN to receive money. You only enter your PIN to send money or check your balance.
 
-9. Verify Before Sending: Always pause to verify the registered name that appears on your screen before finalizing any UPI payment, especially when sending money to unfamiliar numbers or online sellers.
+8. Verify Before Sending: Always pause to verify the registered name that appears on your screen before finalizing any UPI payment, especially when sending money to unfamiliar numbers or online sellers.
 
 # Mandatory Reporting Channels:
 
